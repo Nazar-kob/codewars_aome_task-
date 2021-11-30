@@ -3,3 +3,4 @@
 #  s = s[s.index(x):] + s[s.index(x)+1:]
 # for item in range(len(list_number)-1):
 #         if list_number[item+1] > list_number[item]:
+# eval() - калькулятор строки
