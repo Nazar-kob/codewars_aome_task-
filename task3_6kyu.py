@@ -23,5 +23,3 @@ def oddity(n):
 print(oddity(1))
 print(oddity(5))
 print(oddity(16))
-
-
